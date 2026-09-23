@@ -1,0 +1,242 @@
+{
+  "browser": "Installed Google Chrome",
+  "version": "153.0.8010.53",
+  "checks": [
+    {
+      "check": "Command Center",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/command-center.png"
+    },
+    {
+      "check": "Pipeline Flow",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/pipeline-flow.png"
+    },
+    {
+      "check": "Revenue Outlook",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/revenue-outlook.png"
+    },
+    {
+      "check": "Opportunity Desk",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/opportunity-desk.png"
+    },
+    {
+      "check": "Opportunity Detail",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/opportunity-detail.png"
+    },
+    {
+      "check": "Sales Performance",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/sales-performance.png"
+    },
+    {
+      "check": "Funnel Diagnostics",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/funnel-diagnostics.png"
+    },
+    {
+      "check": "Customer & Market",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/customer-market.png"
+    },
+    {
+      "check": "Scenario Lab",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/scenario-lab.png"
+    },
+    {
+      "check": "Action Queue",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/action-queue.png"
+    },
+    {
+      "check": "Data Explorer",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/data-explorer.png"
+    },
+    {
+      "check": "Methodology",
+      "result": "loaded without application errors",
+      "screenshot": "screenshots/methodology.png"
+    },
+    {
+      "check": "Scenario change",
+      "before": "\u20b93,43,97,49,812",
+      "after": "\u20b93,51,02,75,044",
+      "result": "changed"
+    },
+    {
+      "check": "Scenario CSV download",
+      "rows": 9,
+      "result": "parsed and validated"
+    },
+    {
+      "check": "Stage lane button",
+      "result": "Proposal records selected"
+    },
+    {
+      "check": "Explorer search, sorting, full CSV export",
+      "rows": 49701,
+      "result": "passed"
+    },
+    {
+      "check": "Opportunity row drill-down",
+      "result": "actual timeline displayed"
+    },
+    {
+      "check": "Forecast quarterly and annual views",
+      "result": "passed"
+    },
+    {
+      "check": "Global region filter",
+      "result": "bookings recalculated"
+    },
+    {
+      "check": "Command Center at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Pipeline Flow at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Revenue Outlook at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Desk at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Detail at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Sales Performance at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Funnel Diagnostics at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Customer & Market at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Scenario Lab at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Action Queue at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Data Explorer at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Methodology at 1280px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Command Center at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Pipeline Flow at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Revenue Outlook at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Desk at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Detail at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Sales Performance at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Funnel Diagnostics at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Customer & Market at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Scenario Lab at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Action Queue at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Data Explorer at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Methodology at 820px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Command Center at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Pipeline Flow at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Revenue Outlook at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Desk at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Opportunity Detail at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Sales Performance at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Funnel Diagnostics at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Customer & Market at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Scenario Lab at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Action Queue at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Data Explorer at 390px",
+      "result": "no page-level horizontal overflow"
+    },
+    {
+      "check": "Methodology at 390px",
+      "result": "no page-level horizontal overflow"
+    }
+  ]
+}

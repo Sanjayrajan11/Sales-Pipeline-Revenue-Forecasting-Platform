@@ -1,0 +1,20 @@
+{
+  "data/raw/accounts.parquet": "4be6179455ff7ebaec702931005f5a933a2cdb68ca715bff49ffa34d2d578258",
+  "data/raw/activities.parquet": "9baee9c611da16598477d196d56c47282748e4724ab8db4391095c88a265e343",
+  "data/raw/competitors.parquet": "88f638e6610bc63e9f1222d5c9f7e518f3cfb6d329ab7ff3fc45f67b5bc12389",
+  "data/raw/contracts.parquet": "1f2b6b1aa39b3c4de8f755b8471695a4ba75bd12b20f4fa97f9b864823cb189a",
+  "data/raw/customers.parquet": "20a92d8b8cbdda07c18094e322aa02b828463c581b43a8a0fa34f14a1985a585",
+  "data/raw/forecast_periods.parquet": "0044b54b2a9b9c2adc383503226aaa55091504577d3c7aca1fac82c6198eae8a",
+  "data/raw/industries.parquet": "795300cca2cb8edd967b12b67a85f57d69ae4c5b42aadbe7dfdd32b58e5f6cae",
+  "data/raw/lead_sources.parquet": "d92b9be5fd5040c4ef5d9745594707f70dac7111bd8621b65c15eda483893d4d",
+  "data/raw/lost_reasons.parquet": "bc946dbd41b34a1587230f5beba69380067628a963644a4f6d80788c5059f4d0",
+  "data/raw/manifest.json": "d4bab6b91d2b9e1af5047dd85ed9b1d476bbbd2178d4042982fe74af133ff958",
+  "data/raw/opportunities.parquet": "20b3de5ff768733910e634d9cefb30ce4ff5ca64c9b6140948d1376dd58f988c",
+  "data/raw/products.parquet": "ec9c5365185b54144dd2733b6ea9d36297bb6f31099fc6ef4c72d6496bcee3d1",
+  "data/raw/regions.parquet": "a1f7fe36ec7066f4e3c6c41c78eeec8db3adedff1acec93ff220e1ac7bcf4620",
+  "data/raw/sales_reps.parquet": "7f1227cb59203a818aece8900720b0ec02fe8294ce885acf70c37a3b7d1f71f3",
+  "data/raw/sales_teams.parquet": "d4a77a119a7436cff8164d10fba40a10c1eef3190a4ac54d7e1ff4578f26c602",
+  "data/raw/stage_history.parquet": "2130b1d9a3af8934884dffce32719b28bf9bdc473db022d4ee202fbe071083d5",
+  "data/raw/stages.parquet": "f045d8f0137c852b4e9d42147d9461df7374cdf25986ab0f27d56d32e02165b6",
+  "data/raw/targets.parquet": "47305ffc94db90ee409b9d4e01d102d2a6a5badfae0ad85211b0e49bde50dd94"
+}

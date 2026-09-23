@@ -1,0 +1,16 @@
+{
+  "verified_at": "2026-09-23T19:15:12",
+  "python": "3.12.14",
+  "platform": "Windows",
+  "clean_environment_install": "Passed: requirements.txt installed without system site packages",
+  "pip_check": "No broken requirements found",
+  "ruff": "All checks passed",
+  "tests": "68",
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "notebooks_executed": 5,
+  "raw_files_unchanged_sha256": 18,
+  "browser_checks": 55,
+  "browser_version": "153.0.8010.53"
+}

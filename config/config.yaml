@@ -1,0 +1,7 @@
+dataset_size: 200000
+seed: 42
+as_of: '2026-08-31'
+history_start: '2023-01-01'
+forecast_months: 12
+stale_days: 21
+stage_limits: [14, 18, 21, 18, 28, 21]

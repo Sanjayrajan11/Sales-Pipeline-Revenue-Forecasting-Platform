@@ -1,0 +1,13 @@
+{
+  "status": "VERIFIED",
+  "files_checked": 145,
+  "checks": [
+    "Git-visible files exclude raw/processed datasets, SQLite, environments and caches",
+    "Required documentation and browser evidence exist",
+    "Markdown relative links resolve",
+    "No local user paths or common private-key/token patterns found",
+    "No file exceeds 90 MB"
+  ],
+  "scope": "Static repository audit, not a production security certification",
+  "remote_uploaded": false
+}
